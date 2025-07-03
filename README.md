@@ -35,3 +35,6 @@ CSV TO EPP to aplikacja Windows Forms, która umożliwia konwersję danych produ
     - Wskaż, gdzie ma zostać zapisany wygenerowany plik EPP.
 4.	Wygeneruj plik EPP
     - Kliknij przycisk generowania, aby utworzyć plik EPP.
+
+## 🛡 Licencja
+Projekt prywatny / wewnętrzny – kontakt: slawomir.kaszuba@gmail.com
